@@ -1,0 +1,4 @@
+config.txt
+data/
+*.exe 
+# Artinya semua file yang ada exenya ngga ada kebawa
